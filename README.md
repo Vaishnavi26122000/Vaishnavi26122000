@@ -78,6 +78,8 @@
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/sql%20-%2300748F.svg?&style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 </p>
 
